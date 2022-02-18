@@ -2,7 +2,7 @@
 
 Gerencia a estrutura de pastas e arquivos do projeto
 
-    composer require elegance/explorers
+    composer require elegance/explorer
 
 
 ---
