@@ -1,0 +1,19 @@
+{
+    "name": "elegance/explorer",
+    "description": "Gerencia a estrutura de pastas e arquivos do projeto",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Ricardo",
+            "email": "contatoadmx@gamil.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    },
+    "require": {
+        "elegance/php-extend": "^1.0"
+    }
+}
