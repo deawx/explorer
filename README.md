@@ -10,7 +10,6 @@ Gerencia a estrutura de pastas e arquivos do projeto
 ### Manipulação de diretórios
 
 **create**
-
 Cria um diretório no sistema
     
     Dir::create($path)
